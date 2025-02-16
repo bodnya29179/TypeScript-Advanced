@@ -1,0 +1,11 @@
+{
+  "compilerOptions": {
+    "module": "umd",
+    "target": "es6",
+    "sourceMap": true,
+    "moduleDetection": "force",
+    "moduleResolution": "node",
+    "strict": true
+  },
+  "exclude": ["node_modules"],
+}
