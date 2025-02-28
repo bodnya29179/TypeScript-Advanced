@@ -19,6 +19,12 @@ explanations.
    npm install
    ```
 
+## 💪 TypeScript library with better type definitions
+
+It includes declared types in *.d.ts files based on different versions of ECMAScript:
+
+https://github.com/uhyo/better-typescript-lib
+
 ## 🔗 Repository link
 
 🔗 https://github.com/bodnya29179/Typescript-Advanced.git
